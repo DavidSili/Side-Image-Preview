@@ -1,0 +1,5 @@
+#preview-window {
+    position: absolute;
+    border: 5px ridge #555555;
+    z-index: 1100;
+}
